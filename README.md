@@ -1,5 +1,9 @@
 ### Hi there 👋
 ![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=jad837)
+
+- 🔭 I’m currently working on Webapps
+- 🌱 I’m currently learning Docker and JS
+- 👯 I’m looking to collaborate on JS & Docker
 <!--
 **jad837/jad837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
