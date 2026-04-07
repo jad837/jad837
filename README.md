@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jadhavsaurabh037@gmail.com**
 
-- ⚡ Fun fact **I am a veteran dota2 gamer, 6k+ MMR & Hours spent !!!**
+- ⚡ Fun fact **I have more hours spent on dota2 than MMR :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
