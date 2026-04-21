@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jadhavsaurabh037@gmail.com**
 
-- ⚡ Fun fact **I have more hours spent on dota2 than MMR :(**
+- ⚡ Fun fact **I optimize for low latency by day, and blame high latency at night when losing games :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
